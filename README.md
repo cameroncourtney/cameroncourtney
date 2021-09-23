@@ -6,3 +6,6 @@ I have created, the code I have created is not yet complete. When
 my partner and I begin, we can start to fill in the gaps. This is
 just a starting point I have created to help us get a better 
 understanding of the assignemnt.
+
+
+NOTE: The original project was completed. It is not public because it was a school assignment.
